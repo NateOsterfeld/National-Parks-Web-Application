@@ -1,0 +1,2 @@
+# National-Parks-Web-Application
+Developed web application for the “National Park Weather Service” that uses MVC design, OOP principles, and external data sources to allow users to view various National Parks, submit surveys, view others’, and follow weather forecasts for each park. Utilized sessions and other object dictionaries to store/convert user’s preferences. - Technologies used: ASP.NET MVC, SQL, Razor, AJAX, API’s, HTML, CSS, Bootstrap, Javascript
